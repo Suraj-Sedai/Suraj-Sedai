@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on various projects focused on addressing real-life problems by leveraging AI and machine learning to provide innovative solutions.<br>I am currently learning various machine learning libraries and applying them to enhance my projects.
+#### I am working on various projects focused on addressing real-life problems by leveraging AI and machine learning to provide innovative solutions.<br>I am currently learning various machine learning libraries and applying them to enhance my projects.
 
 
 ## 🌐 Socials:
